@@ -29,7 +29,7 @@ public class minmax {
         System.out.println("Maximum: " + max);
 
 
-        
+         
 
 
          }
